@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently studying at [Georgia Institute of Technology](https://cse.gatech.edu/)
-- Obtained First Class Honor at [UCD](https://www.ucd.ie/) Major in Computer Science(Software Engineering) <br>
+- 🕶️ Obtained First Class Honor at [UCD](https://www.ucd.ie/) Major in Computer Science(Software Engineering) <br>
 - 🌱 I’m currently learning **Machine Learning, Parallel Computing and Software Development**<br>
 - 👨‍💻 All of my projects are available at [https://github.com/Keviniscaiji](https://github.com/Keviniscaiji)<br>
 - 📫 How to reach me **kaiwengong1122@gmail.com**<br>
