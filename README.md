@@ -3,8 +3,8 @@
 - 🕶️ Obtained First Class Honor at [UCD](https://www.ucd.ie/) Major in Computer Science(Software Engineering) <br>
 - 🌱 I’m currently learning **Machine Learning, Parallel Computing and Software Development**<br> Actively Looking for SDE and MLE positions
 - 👨‍💻 All of my projects are available at [https://github.com/Keviniscaiji](https://github.com/Keviniscaiji)<br>
-- 📫 How to reach me **kgong38@gatech.edu**<br>
-- 📄 Know about my experiences [[[https://www.dropbox.com/scl/fi/e4x7y0f4fhduhxarc8mma/Kaiwen_Gong_Resume.pdf?rlkey=xjzfpc2rgf230yqla1b4x0fk5&dl=0](https://www.dropbox.com/scl/fi/e4x7y0f4fhduhxarc8mma/Kaiwen_Gong_Resume.pdf?rlkey=xjzfpc2rgf230yqla1b4x0fk5&dl=0)]
+- 📫 How to reach me **kaiwengong1122@gmail.com*<br>
+
 
 
 ## 🌐 Socials:
